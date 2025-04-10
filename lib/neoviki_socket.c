@@ -1,7 +1,7 @@
 /* Simplified Sockets API based on linux sockets
  *
- *              Author   : Viki (a) Vignesh Natarajan
- *              Contact  : neoviki.com
+ *              Author   : Viki (a) V Natarajan
+ *              Contact  : www.viki.design
  *              LICENCE  : MIT 
  */
 
